@@ -1,0 +1,11 @@
+obstacle3 120 350 150 150
+obstacle3 400 500 150 150
+obstacle3 750 300 150 150
+obstacle3 750 550 150 150
+obstacle3 450 50 150 150
+obstacle3 950 250 150 150
+obstacle3 1200 500 150 150
+target1 1000 100 50 50
+target2 120 600 50 50
+lives 6
+nextmap map3.txt

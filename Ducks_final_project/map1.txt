@@ -1,0 +1,6 @@
+obstacle1 600 0 100 100
+obstacle2 600 200 100 100
+obstacle1 600 400 100 100
+target1 1000 400 50 50
+lives 3
+nextmap map2.txt
